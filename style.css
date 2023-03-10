@@ -110,10 +110,6 @@ html {
 }
 
 .content .list-menu li a:hover{
-   
-   /* border-bottom: 4px solid #080808;    background-color: #f8f5f5; 
-   background-color: #f8f5f5;
-    border-radius: 5px;  */
     color:red;
    
    
@@ -149,7 +145,6 @@ html {
     .first-section h1 {
        color: white; 
        font-size: 10rem;
-     /*  text-transform: uppercase;*/
        margin-bottom: 1rem;
     }
 
@@ -271,8 +266,8 @@ html {
         background-color: #050505;
         border-bottom: 1px solid rgba(255, 255, 255, 0.329);
         width: 100%;
-        padding-top:5rem;       /* correção */
-        padding-bottom: 10rem;    /* correção */
+        padding-top:5rem;       
+        padding-bottom: 10rem;    
         color: white;
         display: flex;
         align-items: center;
